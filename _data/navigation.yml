@@ -38,10 +38,10 @@ tr: &DEFAULT_TR
   nav:
     - title: "Hizmetlerimiz"
       section: services
-    #- title: "Portföy"
-    #  section: portfolio
     - title: "Hakkımızda"
       section: about
+    - title: "Markalar"
+      section: portfolio
     #- title: "Timeline"
     #  section: timeline
     #- title: "Team"

@@ -192,8 +192,8 @@ tr: &DEFAULT_TR
         icon: fas fa-server
 
   portfolio:
-    title: "Portföy"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Markalarımız"
+    text: ""
     section: portfolio
     closebutton: "Kapat"
 
