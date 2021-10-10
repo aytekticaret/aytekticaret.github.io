@@ -48,6 +48,8 @@ tr: &DEFAULT_TR
     #  section: team
     - title: "İletişim"
       section: contact
+    - title: "E-Ticaret"
+      url: http://eticaret.aytekticaret.com
 tr-TR:
   <<: *DEFAULT_TR
 
