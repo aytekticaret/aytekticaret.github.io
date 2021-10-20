@@ -36,10 +36,10 @@ en-AU:
 # -------
 tr: &DEFAULT_TR
   nav:
-    - title: "Hizmetlerimiz"
-      section: services
     - title: "Markalar"
       section: portfolio
+    - title: "Hizmetlerimiz"
+      section: services
     - title: "Hakkımızda"
       section: about
     #- title: "Timeline"
